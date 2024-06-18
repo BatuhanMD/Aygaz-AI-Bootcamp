@@ -1,1 +1,1 @@
-# AygazAIBootcamp
+# Aygaz AI Bootcamp
